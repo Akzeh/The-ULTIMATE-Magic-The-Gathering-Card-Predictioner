@@ -1,5 +1,4 @@
 # The-ULTIMATE-Magic-The-Gathering-Card-Predictioner
----
 A small project I created to predict outcomes of cards based on what type of shuffle they do and how many, how often mixed, and used for games specifically Magic The Gathering.
 
 ## What is it about?
